@@ -33,6 +33,19 @@ Simply run the index.php file
 * The Data in which the Live Search is Commenced is in the form of JSON objects, that are rendered from the database.
 
 
+## Screen 1:
+![image](https://github.com/yash11213018/Stampede/blob/master/E-Commerce_Screenshots/header_1.JPG)
+
+## Screen 2:
+![image](https://github.com/yash11213018/Stampede/blob/master/E-Commerce_Screenshots/type_suggest.JPG)
+
+## Screen 3:
+![image](https://github.com/yash11213018/Stampede/blob/master/E-Commerce_Screenshots/product_display_grid.JPG)
+
+## Screen 4:
+![image](https://github.com/yash11213018/Stampede/blob/master/E-Commerce_Screenshots/my_account.JPG)
+
+
 ## Issues
 
 * Since the Files are not static(HTML) files but Dynamic files(PHP), The Hosting on GitHub doesn't allow the preview of this 
